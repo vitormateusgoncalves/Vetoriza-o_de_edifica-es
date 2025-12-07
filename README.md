@@ -16,7 +16,7 @@ Recomendação sobre imagens:
 
 ## 📌 2. Fluxograma Metodológico
 
-![Fluxograma Metodológico](https://drive.google.com/file/d/1iahJVwKn3ze6JmSqkkgHvn6-SesT7pok/view?usp=sharing)
+![Fluxograma Metodológico](https://github.com/vitormateusgoncalves/Vetoriza-o_de_edifica-es/issues/1#issue-3704066237)
 
 **Figura 1 – Procedimentos metodológicos**  
 *Fonte: Os autores (2025)*
@@ -36,7 +36,7 @@ Recomendação sobre imagens:
 ### 3.2 Aquisição da Imagem Base
 A imagem deve ser atual, clara e de alta resolução.
 
-![Imagem de alta resolução](https://drive.google.com/file/d/1YfTQGhSKftxFZJatp3s5vewF7Lrdp3bJ/view?usp=sharing)
+![Imagem de alta resolução](https://github.com/vitormateusgoncalves/Vetoriza-o_de_edifica-es/issues/3#issue-3704076683)
 **Figura 2 – Exemplo de imagem**  
 *Fonte: Os autores (2025)*
 
@@ -124,7 +124,7 @@ Exportar para os formatos desejados:
 Caminho:  
 Botão direito na camada → **Exportar → Salvar feições como…**
 
-![Exemplo de resultado](https://drive.google.com/file/d/1B0_Ri9f8jS2Dy8H0H2p4wH7NyWnwq9to/view?usp=sharing)
+![Exemplo de resultado](https://github.com/vitormateusgoncalves/Vetoriza-o_de_edifica-es/issues/2#issue-3704067757)
 **Figura 2 – Exemplo de vetorização** 
 *Fonte: Os autores (2025)*
 ---
