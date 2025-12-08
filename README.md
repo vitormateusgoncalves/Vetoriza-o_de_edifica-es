@@ -1,4 +1,4 @@
-# Vetorizaco_de_edificacoes
+# Vetorizacao_de_edificacoes
 Método para vetorizar edificações a partir do plugin Deepness: Deep Neural Remote Sensing no Qgis
 # Extração Automática de Edificações com o Plugin Deepness no QGIS
 Este tutorial apresenta a metodologia completa para detecção e extração automática de edificações utilizando o plugin **Deepness – Deep Neural Remote Sensing** (Aszkowski et al., 2023), baseado em redes neurais profundas e integrado ao software QGIS. O processo utiliza imagens de alta resolução para identificar padrões de telhados, sombras e estruturas urbanas, permitindo quantificação precisa de ocupações urbanas.
