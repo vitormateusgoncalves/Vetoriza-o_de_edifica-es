@@ -5,7 +5,7 @@ Este tutorial apresenta a metodologia completa para detecção e extração auto
 
 ---
 
-## 📌 1. Introdução
+##  1. Introdução
 A quantificação de edificações é fundamental para estudos urbanos, planejamento territorial, regularização fundiária e delimitação de Áreas Urbanas Consolidadas (AUC). O plugin **Deepness** permite realizar esse mapeamento de forma rápida, padronizada e reprodutível, reduzindo erros humanos.
 
 Recomendação sobre imagens:
@@ -14,7 +14,7 @@ Recomendação sobre imagens:
 
 ---
 
-## 📌 2. Fluxograma Metodológico
+##  2. Fluxograma Metodológico
 
 ![Fluxograma Metodológico](https://github.com/vitormateusgoncalves/Vetoriza-o_de_edifica-es/issues/1#issue-3704066237)
 
@@ -23,7 +23,7 @@ Recomendação sobre imagens:
 
 ---
 
-## 📌 3. Metodologia 
+##  3. Metodologia 
 ### 3.1 Planejamento Inicial
 - Delimitar área de estudo  
 - Organizar dados e pastas  
@@ -128,7 +128,7 @@ Botão direito na camada → **Exportar → Salvar feições como…**
 *Fonte: Os autores (2025)*
 
 ---
-## 📌 4. Considerações Finais
+##  4. Considerações Finais
 O plugin **Deepness** é uma ferramenta moderna e robusta baseada em Deep Learning que facilita o mapeamento urbano e a identificação de edificações com alta precisão e padronização. Os resultados são aplicáveis em:
 
 - Planejamento urbano  
@@ -139,7 +139,7 @@ O plugin **Deepness** é uma ferramenta moderna e robusta baseada em Deep Learni
 
 ---
 
-## 📌 5. Referência
+##  5. Referência
 Aszkowski, A. et al. (2023). *Deep Neural Remote Sensing – Deepness Plugin for QGIS.*
 
 ---
