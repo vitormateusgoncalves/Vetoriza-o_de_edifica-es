@@ -126,8 +126,8 @@ Botão direito na camada → **Exportar → Salvar feições como…**
 ![Exemplo de resultado](https://github.com/vitormateusgoncalves/Vetoriza-o_de_edifica-es/issues/2#issue-3704067757)
 **Figura 2 – Exemplo de vetorização** 
 *Fonte: Os autores (2025)*
----
 
+---
 ## 📌 4. Considerações Finais
 O plugin **Deepness** é uma ferramenta moderna e robusta baseada em Deep Learning que facilita o mapeamento urbano e a identificação de edificações com alta precisão e padronização. Os resultados são aplicáveis em:
 
