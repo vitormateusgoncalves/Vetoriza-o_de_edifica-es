@@ -23,8 +23,7 @@ Recomendação sobre imagens:
 
 ---
 
-## 📌 3. Metodologia Completa
-
+## 📌 3. Metodologia 
 ### 3.1 Planejamento Inicial
 - Delimitar área de estudo  
 - Organizar dados e pastas  
@@ -144,6 +143,4 @@ O plugin **Deepness** é uma ferramenta moderna e robusta baseada em Deep Learni
 Aszkowski, A. et al. (2023). *Deep Neural Remote Sensing – Deepness Plugin for QGIS.*
 
 ---
-
-## 📁 Estrutura Recomendada do Repositório
 
