@@ -124,7 +124,7 @@ Caminho:
 Botão direito na camada → **Exportar → Salvar feições como…**
 
 ![Exemplo de resultado](https://github.com/vitormateusgoncalves/Vetoriza-o_de_edifica-es/issues/2#issue-3704067757)
-**Figura 2 – Exemplo de vetorização** 
+**Figura 3 – Exemplo de vetorização** 
 *Fonte: Os autores (2025)*
 
 ---
