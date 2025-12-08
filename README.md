@@ -28,7 +28,7 @@ Recomendação sobre imagens:
 - Delimitar área de estudo  
 - Organizar dados e pastas  
 - Carregar arquivos no QGIS  
-- Definir sistema de coordenadas (preferencialmente UTM)
+- Definir sistema de coordenadas 
 
 ---
 
@@ -78,12 +78,14 @@ Pode-se usar:
 
 ### 3.7 Configuração dos Parâmetros
 Ajuste:
-- **Tile size**  
-- **Overlap**  
-- **Normalização**  
-- **Uso de GPU (se houver)**  
+- **Tile size**  - Tamanho dos blocos de processamento.
+- **Overlap**  - Sobreposição entre tiles para evitar bordas.
+- **Batch size**  - Número de tiles simultâneos.
+- **Argmax** - Gera apenas a classe mais provável.
+- **Probability threshold** - Exige probabilidade mínima para classificar um pixel.
+- **Remove small segment** - Remove ruídos com operações morfológicas.
 
-Esses parâmetros afetam precisão e desempenho.
+Esses parâmetros afetam precisão e desempenho, teste o que se adeque a sua máquina e seus dados.
 
 ---
 
