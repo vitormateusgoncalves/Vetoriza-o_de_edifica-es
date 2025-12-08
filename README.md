@@ -117,7 +117,7 @@ Exportar para os formatos desejados:
 
 
 Caminho:  
-Botão direito na camada → `*Exportar → Salvar feições como…`
+Botão direito na camada → `Exportar → Salvar feições como…`
 
 ![Exemplo de resultado](https://github.com/vitormateusgoncalves/Vetoriza-o_de_edifica-es/issues/2#issue-3704067757)
 **Figura 3 – Exemplo de vetorização** 
