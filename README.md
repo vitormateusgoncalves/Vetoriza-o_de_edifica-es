@@ -98,21 +98,17 @@ O modelo irá:
 
 ### 3.9 Pós-processamento
 Procedimentos do plugin:
-1. Converter raster → vetor  
-2. Remover ruídos  
-3. Mesclar polígonos adjacentes  
-4. Ajustar bordas manualmente  
+1. Converte raster em vetor  
+2. Remove ruídos  
+3. Mescla polígonos adjacentes  
+4. Ajusta bordas manualmente  
 
 ---
 
 ### 3.10 Validação e Ajustes Manuais
 Comparar o vetor com a imagem original para corrigir:
 - Edificações não detectadas  
-- Objetos falsos positivos  
-
-Ferramentas úteis:
-- Modo de edição  
-- Modelador topológico  
+- Objetos falsos positivos
 
 ---
 
@@ -121,7 +117,7 @@ Exportar para os formatos desejados:
 
 
 Caminho:  
-Botão direito na camada → **Exportar → Salvar feições como…**
+Botão direito na camada → ´*Exportar → Salvar feições como…´
 
 ![Exemplo de resultado](https://github.com/vitormateusgoncalves/Vetoriza-o_de_edifica-es/issues/2#issue-3704067757)
 **Figura 3 – Exemplo de vetorização** 
